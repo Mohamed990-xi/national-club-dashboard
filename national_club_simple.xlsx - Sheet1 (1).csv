@@ -1,0 +1,51 @@
+Player_ID,Name,Age,Gender,City,Club,Game,Level,Experience,Score
+P001,Mariam Mahmoud,35,Male,Port Said,Ismaili,Basketball,Intermediate,6,1939
+P002,Khaled Youssef,30,Female,Suez,El-Mokawloon,Swimming,Intermediate,3,1470
+P003,Dalia Gamal,25,Male,Mansoura,Zamalek,Chess,Intermediate,7,1294
+P004,Ali Hassan,26,Male,Mansoura,Al-Masry,Chess,Beginner,1,495
+P005,Khaled Youssef,17,Male,Alexandria,Zamalek,Tennis,Professional,17,4309
+P006,Yasser Tarek,21,Male,Aswan,Ismaili,Chess,Beginner,2,693
+P007,Yasser Tarek,31,Female,Tanta,Al-Ahly,Football,Intermediate,5,1173
+P008,Hassan Mahmoud,19,Female,Giza,Ismaili,Swimming,Intermediate,7,1907
+P009,Mahmoud Ibrahim,28,Male,Zagazig,Al-Ahly,Swimming,Beginner,1,272
+P010,Fatima Mohamed,30,Female,Tanta,El-Mokawloon,Football,Intermediate,5,1700
+P011,Aya Hassan,34,Female,Suez,Zamalek,Chess,Intermediate,4,1201
+P012,Mahmoud Ibrahim,19,Male,Port Said,Al-Masry,Chess,Intermediate,6,1391
+P013,Mariam Mahmoud,24,Female,Tanta,Zamalek,Basketball,Advanced,10,3045
+P014,Fatima Mohamed,24,Male,Zagazig,El-Mokawloon,Chess,Beginner,1,840
+P015,Dalia Gamal,26,Male,Alexandria,Al-Masry,Tennis,Beginner,1,592
+P016,Sara Ahmed,32,Female,Mansoura,Al-Ahly,Football,Beginner,3,315
+P017,Dalia Gamal,28,Male,Giza,Zamalek,Swimming,Intermediate,4,1273
+P018,Tarek Amr,35,Male,Cairo,Zamalek,Basketball,Beginner,3,280
+P019,Mohamed Ali,29,Male,Suez,Zamalek,Swimming,Advanced,10,3121
+P020,Walid Basil,34,Female,Alexandria,Al-Ahly,Tennis,Professional,18,4288
+P021,Dalia Gamal,33,Female,Mansoura,Zamalek,Chess,Advanced,7,2052
+P022,Iman Rami,33,Male,Tanta,Al-Ahly,Swimming,Beginner,3,489
+P023,Aya Hassan,34,Female,Mansoura,Al-Masry,Chess,Advanced,10,2833
+P024,Dalia Gamal,16,Male,Cairo,Al-Ahly,Swimming,Beginner,2,720
+P025,Khaled Youssef,22,Male,Zagazig,El-Mokawloon,Chess,Beginner,3,875
+P026,Dalia Gamal,34,Female,Mansoura,Al-Ahly,Chess,Advanced,11,2497
+P027,Reem Hussein,28,Male,Tanta,Al-Masry,Basketball,Intermediate,4,1145
+P028,Khaled Youssef,16,Female,Zagazig,Al-Masry,Swimming,Beginner,2,855
+P029,Walid Basil,27,Female,Suez,Al-Masry,Basketball,Intermediate,7,1666
+P030,Ahmed Mohamed,34,Male,Luxor,Ismaili,Chess,Intermediate,5,1831
+P031,Iman Rami,22,Female,Luxor,Al-Masry,Basketball,Beginner,2,620
+P032,Hassan Mahmoud,34,Female,Zagazig,Ismaili,Football,Professional,17,4997
+P033,Aya Hassan,27,Female,Tanta,Al-Masry,Chess,Advanced,8,2501
+P034,Fatima Mohamed,19,Female,Suez,Zamalek,Swimming,Advanced,10,2484
+P035,Amr Walid,18,Male,Luxor,Al-Masry,Swimming,Advanced,9,3358
+P036,Reem Hussein,32,Female,Giza,Ismaili,Tennis,Beginner,2,924
+P037,Hoda Said,34,Male,Alexandria,Ismaili,Basketball,Beginner,3,198
+P038,Aya Hassan,29,Male,Cairo,El-Mokawloon,Football,Intermediate,7,1454
+P039,Hoda Said,17,Male,Mansoura,Al-Ahly,Tennis,Professional,15,4080
+P040,Walid Basil,21,Female,Aswan,Al-Masry,Swimming,Intermediate,6,1340
+P041,Aya Hassan,16,Male,Tanta,Al-Ahly,Football,Beginner,3,538
+P042,Hoda Said,21,Female,Port Said,Zamalek,Football,Beginner,2,383
+P043,Amr Walid,33,Male,Aswan,Ismaili,Chess,Intermediate,7,1404
+P044,Mariam Mahmoud,27,Female,Port Said,El-Mokawloon,Football,Beginner,1,610
+P045,Sara Ahmed,28,Female,Tanta,Zamalek,Football,Intermediate,5,1901
+P046,Iman Rami,17,Male,Giza,Al-Ahly,Chess,Intermediate,5,1597
+P047,Tarek Amr,30,Male,Port Said,Al-Masry,Basketball,Intermediate,7,1361
+P048,Yasser Tarek,21,Male,Cairo,Al-Ahly,Football,Intermediate,4,1569
+P049,Reem Hussein,27,Male,Mansoura,Al-Ahly,Basketball,Advanced,10,2855
+P050,Walid Basil,26,Male,Giza,El-Mokawloon,Basketball,Advanced,7,2450
